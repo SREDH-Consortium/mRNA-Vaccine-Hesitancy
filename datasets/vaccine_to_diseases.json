@@ -1,0 +1,80 @@
+{
+  "dtap": [
+    "Diphtheria",
+    "Tetanus",
+    "Pertussis"
+  ],
+  "tdap": [
+    "Diphtheria",
+    "Tetanus",
+    "Pertussis"
+  ],
+  "flu": [
+    "Influenza"
+  ],
+  "hep a": [
+    "Hepatitis A"
+  ],
+  "hep b": [
+    "Hepatitis B"
+  ],
+  "hib": [
+    "Haemophilus influenzae type b"
+  ],
+  "mmr": [
+    "Measles",
+    "Mumps",
+    "Rubella"
+  ],
+  "varicella": [
+    "Varicella"
+  ],
+  "hpv": [
+    "Human Papillomavirus infection"
+  ],
+  "meningococcal": [
+    "Meningococcal disease"
+  ],
+  "pneumococcal": [
+    "Pneumococcal disease"
+  ],
+  "polio": [
+    "Poliomyelitis"
+  ],
+  "rabies": [
+    "Rabies"
+  ],
+  "rotavirus": [
+    "Rotavirus infection"
+  ],
+  "shingles": [
+    "Herpes Zoster"
+  ],
+  "tuberculosis": [
+    "Tuberculosis"
+  ],
+  "typhoid": [
+    "Typhoid fever"
+  ],
+  "yellow fever": [
+    "Yellow fever"
+  ],
+  "japanese encephalitis": [
+    "Japanese encephalitis"
+  ],
+  "cholera": [
+    "Cholera"
+  ],
+  "covid": [
+    "COVID-19"
+  ],
+  "dengue": [
+    "Dengue"
+  ],
+  "monkeypox": [
+    "Monkeypox"
+  ],
+  "anthrax": [
+    "Anthrax"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "uns_taxonomy_config": {
+    "category_id": 5,
+    "category_name": "Information",
+    "topic": "Mis- and Disinformation",
+    "subtopics": [
+      {
+        "subtopic_name": "Safety & Bodily Integrity",
+        "narratives": [
+          {
+            "specific_narrative": "Acute Injuries",
+            "flicc": "Contextomy (Removing Context)",
+            "stigma_target": "None",
+            "real_world_trigger": "Celebrity/Athlete Collapse",
+            "description": "Rebranding routine immune responses or coincidental health events as 'vaccine injuries'.",
+            "keywords": [
+              "allergic reaction",
+              "anaphylaxis",
+              "fainting",
+              "died suddenly"
+            ]
+          },
+          {
+            "specific_narrative": "Chronic Disease (Turbo Cancer)",
+            "flicc": "Exaggerated Harm",
+            "stigma_target": "None",
+            "real_world_trigger": "New Medical Diagnosis",
+            "description": "Hyperbolic claims linking vaccines to rapid-onset cancers or autoimmune disorders.",
+            "keywords": [
+              "turbo cancer",
+              "SADS",
+              "myocarditis",
+              "clots",
+              "neurological damage"
+            ]
+          },
+          {
+            "specific_narrative": "Reproductive Harm",
+            "flicc": "Fear Mongering",
+            "stigma_target": "Women/Mothers",
+            "real_world_trigger": "Declining Birth Rate Reports",
+            "description": "Narratives about sterilization, miscarriage, or sperm count reduction.",
+            "keywords": [
+              "menstrual cycles",
+              "placenta",
+              "breast milk toxicity",
+              "sterilization"
+            ]
+          },
+          {
+            "specific_narrative": "Microchips & Tracking",
+            "flicc": "Conspiracy Theory",
+            "stigma_target": "Tech Leaders/Elites",
+            "real_world_trigger": "Digital ID Rollouts",
+            "description": "Narratives that vaccines contain nanotechnology or tracking devices.",
+            "keywords": [
+              "mark of the beast",
+              "digital ID",
+              "quantum dot",
+              "graphene oxide"
+            ]
+          },
+          {
+            "specific_narrative": "Genomic Alteration",
+            "flicc": "Pseudoscience",
+            "stigma_target": "Scientific Community",
+            "real_world_trigger": "New Biotech Announcements",
+            "description": "Myths that mRNA permanently alters human DNA.",
+            "keywords": [
+              "gene therapy",
+              "transhumanism",
+              "triple helix",
+              "SV40 promoter"
+            ]
+          },
+          {
+            "specific_narrative": "Ingredient Safety Concerns",
+            "flicc": "Pseudoscience",
+            "stigma_target": "Pharmaceutical Industry",
+            "real_world_trigger": "New Medical Research",
+            "description": "Claims that vaccine ingredients (aluminum adjuvants, spike proteins, mRNA) cause long-term harm not adequately studied or disclosed by manufacturers.",
+            "keywords": [
+              "aluminum adjuvant",
+              "spike protein",
+              "long-term safety",
+              "toxic ingredient",
+              "inflammatory cytokine",
+              "neurodegenerative",
+              "adjuvant toxicity",
+              "inadequate safety studies",
+              "mrna injection",
+              "immune overstimulation"
+            ]
+          },
+          {
+            "specific_narrative": "Suppression of Data",
+            "flicc": "Conspiracy Theory",
+            "stigma_target": "Scientific Community",
+            "real_world_trigger": "New Medical Research",
+            "description": "Claims that vaccine safety data is hidden, manipulated, or suppressed by researchers, pharmaceutical companies, or public health authorities.",
+            "keywords": [
+              "hiding data",
+              "retraction",
+              "excluded from trials",
+              "undisclosed data",
+              "cover-up",
+              "corrected data not released",
+              "study suppressed",
+              "authors have not disclosed",
+              "lack of transparency"
+            ]
+          }
+        ]
+      },
+      {
+        "subtopic_name": "Efficacy & Necessity",
+        "narratives": [
+          {
+            "specific_narrative": "Zero Protection Claims",
+            "flicc": "False Dichotomy",
+            "stigma_target": "Public Health Officials",
+            "real_world_trigger": "Breakthrough Cases",
+            "description": "Claims that because vaccines don't 100% prevent infection, they are useless.",
+            "keywords": [
+              "negative efficacy",
+              "saline shots",
+              "pandemic of the vaccinated"
+            ]
+          },
+          {
+            "specific_narrative": "Alternative Cures",
+            "flicc": "False Balance",
+            "stigma_target": "Medical Establishment",
+            "real_world_trigger": "Drug Approval News",
+            "description": "Promotion of unproven protocols as suppressed cures.",
+            "keywords": [
+              "Ivermectin",
+              "detox baths",
+              "pine needle tea"
+            ]
+          },
+          {
+            "specific_narrative": "Vaccine Safety and Efficacy",
+            "flicc": "Exaggerated Harm",
+            "stigma_target": "Public Health Officials",
+            "real_world_trigger": "New Vaccine Recommendations",
+            "description": "Broad claims questioning the overall safety and efficacy of vaccines, often citing lack of long-term studies, clinical trial exclusions, or post-market surveillance gaps.",
+            "keywords": [
+              "premature approval",
+              "insufficient testing",
+              "clinical trial excluded",
+              "lack of credibility",
+              "safety not established",
+              "rushed approval"
+            ]
+          }
+        ]
+      },
+      {
+        "subtopic_name": "Ethics & Liberties",
+        "narratives": [
+          {
+            "specific_narrative": "Coercion Narratives",
+            "flicc": "Appeal to Emotion",
+            "stigma_target": "Employers/Government",
+            "real_world_trigger": "Mandate Announcements",
+            "description": "Framing vaccination requirements as 'medical tyranny' or segregation.",
+            "keywords": [
+              "segregation",
+              "coercion",
+              "discrimination",
+              "job or jab"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
